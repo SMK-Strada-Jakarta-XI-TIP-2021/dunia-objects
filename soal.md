@@ -8,7 +8,7 @@
 
 ## Instruksi
 
-1. Buatlah beberapa Object Literal yang memiliki minimal lima properti yang berisi nilai / value `string`, `number`, `bolean`, `array` serta lima metode / methods / function yang di dalamnya da kondisi serta perulangan / looping
+1. Buatlah beberapa Object Literal yang memiliki minimal lima properti yang berisi nilai / value `string`, `number`, `bolean`, `array` serta lima metode / methods / function yang di dalamnya dengan kondisi serta perulangan / looping
 
 2. Pilihlah dari beberapa object dunia nyata di bawah ini:
 * Sepeda
